@@ -1,0 +1,51 @@
+OrderID,Product,Category,Quantity,UnitPrice,TotalPrice,Region,OrderDate
+1001,Laptop,Electronics,2,700,1400,North America,2024-01-05
+1002,Smartphone,Electronics,5,400,2000,Europe,2024-02-10
+1003,TV,Electronics,3,800,2400,Asia,2024-03-15
+1004,Washing Machine,Home Appliances,1,600,600,North America,2024-04-20
+1005,Refrigerator,Home Appliances,2,900,1800,Europe,2024-05-25
+1006,Microwave,Home Appliances,4,250,1000,Asia,2024-06-30
+1007,Headphones,Accessories,6,100,600,North America,2024-07-10
+1008,Keyboard,Accessories,10,50,500,Europe,2024-08-15
+1009,Mouse,Accessories,8,30,240,Asia,2024-09-05
+1010,Monitor,Electronics,3,500,1500,North America,2024-10-20
+1011,Tablet,Electronics,4,350,1400,Europe,2024-11-12
+1012,Air Conditioner,Home Appliances,2,1200,2400,Asia,2024-12-01
+1013,Router,Electronics,5,100,500,North America,2024-01-18
+1014,Printer,Electronics,2,200,400,Europe,2024-02-25
+1015,Smartwatch,Accessories,3,250,750,Asia,2024-03-10
+1016,Gaming Console,Electronics,1,500,500,North America,2024-04-05
+1017,Coffee Maker,Home Appliances,2,150,300,Europe,2024-05-15
+1018,Blender,Home Appliances,4,100,400,Asia,2024-06-25
+1019,Vacuum Cleaner,Home Appliances,2,350,700,North America,2024-07-08
+1020,External Hard Drive,Electronics,3,120,360,Europe,2024-08-22
+1021,Smart Speaker,Electronics,2,200,400,Asia,2024-09-30
+1022,Electric Kettle,Home Appliances,5,80,400,North America,2024-10-15
+1023,Projector,Electronics,1,600,600,Europe,2024-11-28
+1024,Camera,Electronics,2,700,1400,Asia,2024-12-10
+1025,Tripod,Accessories,6,60,360,North America,2025-01-20
+1026,Smart Bulb,Accessories,10,20,200,Europe,2025-02-14
+1027,Soundbar,Electronics,2,300,600,Asia,2025-03-18
+1028,Wireless Charger,Accessories,4,40,160,North America,2025-04-25
+1029,Electric Shaver,Home Appliances,3,90,270,Europe,2025-05-05
+1030,Hair Dryer,Home Appliances,2,75,150,Asia,2025-06-10
+1031,TV Stand,Furniture,1,150,150,North America,2025-07-15
+1032,Office Chair,Furniture,2,200,400,Europe,2025-08-10
+1033,Bookshelf,Furniture,1,180,180,Asia,2025-09-05
+1034,Desk Lamp,Furniture,3,50,150,North America,2025-10-12
+1035,Bedside Table,Furniture,2,130,260,Europe,2025-11-20
+1036,Sofa,Furniture,1,700,700,Asia,2025-12-01
+1037,Dining Table,Furniture,1,600,600,North America,2026-01-08
+1038,Gaming Chair,Furniture,2,300,600,Europe,2026-02-15
+1039,Bluetooth Speaker,Accessories,4,120,480,Asia,2026-03-10
+1040,Wireless Headset,Accessories,3,140,420,North America,2026-04-05
+1041,Smart Thermostat,Electronics,2,250,500,Europe,2026-05-10
+1042,Smart Door Lock,Electronics,1,300,300,Asia,2026-06-20
+1043,Electric Scooter,Electronics,1,800,800,North America,2026-07-18
+1044,Fitness Tracker,Accessories,5,100,500,Europe,2026-08-25
+1045,Portable Fan,Home Appliances,3,40,120,Asia,2026-09-15
+1046,Induction Cooker,Home Appliances,2,200,400,North America,2026-10-22
+1047,Toaster,Home Appliances,4,60,240,Europe,2026-11-05
+1048,Air Purifier,Home Appliances,2,350,700,Asia,2026-12-12
+1049,Dishwasher,Home Appliances,1,900,900,North America,2027-01-01
+1050,Security Camera,Electronics,3,250,750,Europe,2027-02-14
